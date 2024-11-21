@@ -73,22 +73,3 @@ h6 {
   font-family: "poppins", sans-serif;
   overflow-x: hidden;
 }
-.body {
-  background-color: black;
-}
-.bg-video {
-  z-index: -2;
-}
-.navi img {
-  height: 115px;
-  position: absolute;
-  top: -16px;
-  left: -120px;
-  padding: 28px 8%;
-  display: flex;
-}
-.navi {
-  position: relative;
-  background: white;
-  width: 800px;
-}
